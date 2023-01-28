@@ -1,0 +1,1 @@
+//This layout contain all business rules.La lógica de negocio se encargaría de validar que los datos ingresados cumplen con estas reglas antes de permitir que se registre el usuario. Esto podría incluir escribir funciones para validar cada uno de los campos del formulario, así como también una funcion que valide todo el formulario.
